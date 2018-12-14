@@ -2,7 +2,7 @@
 Predicting Student Educational Success
 
 Medium Blog Link:
-https://medium.com/improving-student-performance-with-nces-data
+https://medium.com/improving-student-performance-with-nces-data/improving-student-performance-with-nces-data-1d4fb8a4235a
 
 Dataset Link:
 https://nces.ed.gov/edat/index.aspx?agrmnt=1
