@@ -5,4 +5,13 @@ Medium Blog Link:
 https://medium.com/improving-student-performance-with-nces-data
 
 Dataset Link:
-https://nces.ed.gov/edat/variableSelect.aspx?guide=1&hnt=8_&srch=&rnd=78&agrmnt=1&sessionid=04d4caf3-6c1c-4dbf-b0a0-cf35884ae52b
+https://nces.ed.gov/edat/index.aspx?agrmnt=1
+
+# Downloading and Browsing Student Data
+1. Click 'Get Started Without Logging In'
+2. When prompted to read the user guide, select 'No'
+3. Select the '+' symbol next to the study entitled 'HSLS (High School Longitudinal Study of 2009)'
+4. Toggle the radio button next to 'HSLS:2009-16, including HS transcripts'
+5. Click 'Next'
+6. Select 'Student File'
+7. Click 'Next'
